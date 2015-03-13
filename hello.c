@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-printf("this is my first use of git ");
+printf("this is nithin ");
 return 0;
 }
